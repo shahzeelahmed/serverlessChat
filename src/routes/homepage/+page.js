@@ -19,7 +19,7 @@
 //  export const load = async () => {
 // const character = "guts";
 // const model = new ChatOpenAI({
-//     openAIApiKey: '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',
+//     openAIApiKey: '',
 //     temperature: 0.1});
 //     const chain = new ConversationChain({llm: model })
 // const template = ""
